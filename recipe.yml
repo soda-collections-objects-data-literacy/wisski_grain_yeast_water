@@ -1,4 +1,4 @@
-name: 'WissKI Grain, Yeast and Water'
+name: 'WissKI Grain, Yeast, and Water'
 description: 'WissKI base environment with mandatory modules.'
 type: 'Site'
 
