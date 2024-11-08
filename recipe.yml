@@ -3,8 +3,8 @@ description: 'WissKI base environment with mandatory modules.'
 type: 'Site'
 
 install:
-  - drupal/inline_entity_form
-  - drupal/wisski
+  - inline_entity_form
+  - wisski
 
 config:
   import:
