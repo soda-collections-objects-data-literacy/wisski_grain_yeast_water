@@ -1,6 +1,6 @@
 {
     "name": "soda-collection-objects-data-literacy/wisski_grain_yeast_water",
-    "version": "1.x",
+    "version": "dev-main",
     "description": "Installs and configures the WissKI base environment with mandatory modules.",
     "keywords": ["drupal recipe", "wisski"],
     "type": "drupal-recipe",
