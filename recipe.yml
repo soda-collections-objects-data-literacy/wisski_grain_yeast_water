@@ -3,11 +3,13 @@ description: 'WissKI base environment with mandatory modules.'
 type: 'Site'
 
 install:
+  - imce
   - inline_entity_form
   - wisski
 
 config:
   strict: false
   import:
+    imce: "*"
     inline_entity_form: "*"
     wisski: "*"
